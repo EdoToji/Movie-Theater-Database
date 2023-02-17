@@ -1,4 +1,4 @@
-# Movie-Theater-Database (PostgreSQL)
+# Movie-Theater-Database-PostgreSQL
 
 This database contains information on the following: 
 * The location(address, zip code, city, state) of each movie theater.
