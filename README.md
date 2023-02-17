@@ -1,2 +1,6 @@
 # Movie-Theater-Database
-This is a database that includes information on multiple movie theaters and the movie showings of each theater.
+**This is a database that includes information on the following: **
+```
+- The location(address, zip code, city, state) of each movie theater.
+- 
+```
